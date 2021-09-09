@@ -31,7 +31,7 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/brunopellanda/
 Constantemente publico alguns artigos ou estudos de cursos nos repositórios aqui do GitHub ou em meu perfil no [Medium](https://medium.com/@brunopellanda).
 
 1. Projeto de conclusão para certificação de cientista de dados da IBM: [Notebook (apresentação em inglês)](https://github.com/pellanda/Coursera_Capstone/blob/master/final/Final%20Report%20-%20IBM%20Capstone.ipynb)
-2. Artigo explicando o uso de RNNs para detecção do uso de máscara em tempo real utilizando a webcam do notebook: [Artigo](https://www.linkedin.com/pulse/como-usei-uma-webcam-para-identificar-o-uso-ou-n%C3%A3o-de-bruno-pellanda/)
+2. Artigo explicando o uso de RNCs para detecção do uso de máscara em tempo real utilizando a webcam do notebook: [Artigo](https://www.linkedin.com/pulse/como-usei-uma-webcam-para-identificar-o-uso-ou-n%C3%A3o-de-bruno-pellanda/)
 3. Artigo sobre Lateral Joins (SQL): [Artigo](https://www.linkedin.com/pulse/lateral-join-um-exemplo-prático-bruno-pellanda/)
 
 ## &#x1f4c8; Status do GitHub
