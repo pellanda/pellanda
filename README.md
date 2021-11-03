@@ -21,6 +21,7 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/brunopellanda/
 ## &#127941; Cursos e Certificações
 
 - [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/98da144b-f737-499b-a70f-92cf8c7f36fb/public_url)
+- [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/U76J7TYKP52Z)
 - [Databricks: Data Scientist - Learning Path](https://academy.databricks.com/award/completion/652d2789-ccfe-3047-bc35-ba74102eed39/view-ext)
 - [IBM Data Science Professional Certificate (V2)](https://www.credly.com/badges/f2687449-8027-4142-ab89-e0ae4d403988?source=linked_in_profile)
 - [Programa de cursos integrados: Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/certificate/5YE7JKSQNTKQ)
