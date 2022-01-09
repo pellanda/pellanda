@@ -34,7 +34,8 @@ Constantemente publico alguns artigos ou estudos de cursos nos repositórios aqu
 
 1. Projeto de conclusão para certificação de cientista de dados da IBM: [Notebook (apresentação em inglês)](https://github.com/pellanda/Coursera_Capstone/blob/master/final/Final%20Report%20-%20IBM%20Capstone.ipynb)
 2. Artigo explicando o uso de RNCs para detecção do uso de máscara em tempo real utilizando a webcam do notebook: [Artigo](https://www.linkedin.com/pulse/como-usei-uma-webcam-para-identificar-o-uso-ou-n%C3%A3o-de-bruno-pellanda/)
-3. Artigo sobre Lateral Joins (SQL): [Artigo](https://www.linkedin.com/pulse/lateral-join-um-exemplo-prático-bruno-pellanda/)
+3. Artigos comparando vários modelos de Machine Learning e exemplos de aplicações (em duas partes): [Parte 1](https://medium.com/gbtech/modelos-de-machine-learning-uma-comparação-entre-os-modelos-parte-1-c772661c7163) [Parte 2](https://medium.com/gbtech/modelos-de-machine-learning-uma-comparação-entre-os-modelos-parte-2-3b79cd2c84ab)
+4. Artigo sobre Lateral Joins (SQL): [Artigo](https://www.linkedin.com/pulse/lateral-join-um-exemplo-prático-bruno-pellanda/)
 
 ## &#x1f4c8; Status do GitHub
 
