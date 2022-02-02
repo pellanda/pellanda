@@ -19,14 +19,16 @@ Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/brunopellanda/
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 
 ## &#127941; Cursos e Certificações
-
-- [IBM Data Science Professional Certificate (V2)](https://www.credly.com/badges/f2687449-8027-4142-ab89-e0ae4d403988?source=linked_in_profile)
-- [Databricks: Data Scientist - Learning Path](https://academy.databricks.com/award/completion/652d2789-ccfe-3047-bc35-ba74102eed39/view-ext)
-- [Deep Learning Specialization](https://coursera.org/share/c7e26f5e9daf39ae7ce8a803f0130982)
-- [Programa de cursos integrados: Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/certificate/5YE7JKSQNTKQ)
-- [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/U76J7TYKP52Z)
-- [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/98da144b-f737-499b-a70f-92cf8c7f36fb/public_url)
-- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/9ZQW737U44TP)
+- Certificações
+  - [Tensorflow Developer Certificate](https://www.credential.net/206440e3-17b0-4fec-b0db-1a7c531db273)
+  - [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/98da144b-f737-499b-a70f-92cf8c7f36fb/public_url)
+  - [IBM Data Science Professional Certificate (V2)](https://www.credly.com/badges/f2687449-8027-4142-ab89-e0ae4d403988)
+- Cursos
+  - [Databricks: Data Scientist - Learning Path](https://academy.databricks.com/award/completion/652d2789-ccfe-3047-bc35-ba74102eed39/view-ext)
+  - [Deep Learning Specialization](https://coursera.org/share/c7e26f5e9daf39ae7ce8a803f0130982)
+  - [Programa de cursos integrados: Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/certificate/5YE7JKSQNTKQ)
+  - [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/U76J7TYKP52Z)
+  - [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/9ZQW737U44TP)
 
 ## &#x270d; Artigos e Projetos
 
