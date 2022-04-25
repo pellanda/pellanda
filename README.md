@@ -1,6 +1,6 @@
 # Olá, pessoal 👋
 
-Meu nome é Bruno Pellanda e trabalho como cientista de dados/engenheiro de machine learning. Sou brasileiro residente em Curitiba e atualmente trabalho no Grupo Boticário.
+Meu nome é Bruno Pellanda e trabalho como cientista de dados/engenheiro de machine learning. Sou brasileiro residente em Curitiba e atualmente trabalho no Mercado Livre Brasil.
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/brunopellanda/)
 
 ## 🔧 Tecnologia e Ferramentas
